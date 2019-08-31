@@ -1,25 +1,25 @@
 # vue-typescript-admin-template
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![CircleCI](https://circleci.com/gh/Armour/vue-typescript-admin-template/tree/minimal.svg?style=shield)](https://circleci.com/gh/Armour/vue-typescript-admin-template/tree/minimal)
+[![CircleCI](https://circleci.com/gh/BurningMyself/vue-typescript-admin-template/tree/minimal.svg?style=shield)](https://circleci.com/gh/BurningMyself/vue-typescript-admin-template/tree/minimal)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Template from jarvis](https://img.shields.io/badge/Hi-Jarvis-ff69b4.svg)](https://github.com/Armour/Jarvis)
+[![Template from jarvis](https://img.shields.io/badge/Hi-Jarvis-ff69b4.svg)](https://github.com/BurningMyself/Jarvis)
 
 [English](./README.md) | 简体中文
 
 ## 总览
 
-这是一个极简的 vue typescript admin 管理后台。它只包含了 Element UI & axios & svgicon & permission control & lint，这些搭建后台必要的东西。部分源代码是由 [vue-cli](https://github.com/vuejs/vue-cli) 和 [jarvis](https://github.com/Armour/Jarvis) 自动生成的。Mock 部分直接使用了我预先搭建的 [Mock 服务器](https://github.com/armour/vue-typescript-admin-mock-server)。
+这是一个极简的 vue typescript admin 管理后台。它只包含了 Element UI & axios & svgicon & permission control & lint，这些搭建后台必要的东西。部分源代码是由 [vue-cli](https://github.com/vuejs/vue-cli) 和 [jarvis](https://github.com/BurningMyself/Jarvis) 自动生成的。Mock 部分直接使用了我预先搭建的 [Mock 服务器](https://github.com/BurningMyself/vue-typescript-admin-mock-server)。
 
 ## 截图/动图
 
-![demo](./demo/demo.gif)
+![demo](./demo/demo.png)
 
 ## 相关项目
 
-[Armour/vue-typescript-admin-mock-server](https://github.com/armour/vue-typescript-admin-mock-server) (Mock 服务器)
+[BurningMyself/vue-typescript-admin-mock-server](https://github.com/BurningMyself/vue-typescript-admin-mock-server) (Mock 服务器)
 
-[Armour/vue-typescript-admin-docs](https://github.com/armour/vue-typescript-admin-docs) (项目文档)
+[BurningMyself/vue-typescript-admin-docs](https://github.com/BurningMyself/vue-typescript-admin-docs) (项目文档)
 
 Javascript 版本相关:
 
@@ -87,8 +87,8 @@ Modern browsers and Internet Explorer 10+.
 
 ## 参与贡献
 
-请看 [CONTRIBUTING.md](https://github.com/Armour/vue-typescript-admin-template/blob/master/.github/CONTRIBUTING.md)
+请看 [CONTRIBUTING.md](https://github.com/BurningMyself/vue-typescript-admin-template/blob/master/.github/CONTRIBUTING.md)
 
 ## License
 
-[MIT License](https://github.com/Armour/vue-typescript-admin-template/blob/master/LICENSE)
+[MIT License](https://github.com/BurningMyself/vue-typescript-admin-template/blob/master/LICENSE)
