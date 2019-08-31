@@ -11,6 +11,14 @@
 
 这是一个极简的 vue typescript admin 管理后台。它只包含了 Element UI & axios & svgicon & permission control & lint，这些搭建后台必要的东西。部分源代码是由 [vue-cli](https://github.com/vuejs/vue-cli) 和 [jarvis](https://github.com/BurningMyself/Jarvis) 自动生成的。Mock 部分直接使用了我预先搭建的 [Mock 服务器](https://github.com/BurningMyself/vue-typescript-admin-mock-server)。
 
+## 线上文档
+
+[文档](https://armour.github.io/vue-typescript-admin-docs/zh)
+
+## 线上地址
+
+[示例](https://burningmyself.github.io/vue-typescript-admin-template)
+
 ## 截图/动图
 
 ![demo](./demo/demo.png)
