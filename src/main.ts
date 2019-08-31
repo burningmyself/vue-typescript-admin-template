@@ -15,6 +15,7 @@ import i18n from '@/lang'
 import '@/icons/components'
 import '@/permission'
 import * as directives from '@/directives'
+import * as filters from '@/filters'
 
 Vue.use(ElementUI, {
   size: AppModule.size, // Set element-ui default size
@@ -30,6 +31,11 @@ Vue.use(SvgIcon, {
 // Register global directives
 Object.keys(directives).forEach(key => {
   Vue.directive(key, (directives as { [key: string]: DirectiveOptions })[key])
+})
+
+// Register global filter functions
+Object.keys(filters).forEach(key => {
+  Vue.filter(key, (filters as { [key: string ]: Function })[key])
 })
 
 Vue.config.productionTip = false
